@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Viaje</string>
+    <string name="text_go">Voyage</string>
+    <string name="text_there">BonVoyage</string>
+
+    <string name="txt1" hint="someText">Ingrese un entero:</string>
+    <string name="txt2" hint="someText">Ingrese un entero:</string>
+
+    <string name="txtresultado">Resultado</string>
+    <string name="btnIr">Vamospaya</string>
+    <string name="btnvolver">Vamospatras</string>
+    <string name="btnsuma">+</string>
+    <string name="btnresta">-</string>
+    <string name="btnmultiplicacion">*</string>
+    <string name="btndivi">/</string>
+
+</resources>
